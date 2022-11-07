@@ -6,7 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 Final year B.Tech, Computer Science and Engineering at NIT Raipur.
+- 🔭 Software Engineer at Optum
+-    NIT Raipur, Computer Sceince and Engineering 2022
 - 🌱 I’m currently learning DSA, Competitive Coding and Development.
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
